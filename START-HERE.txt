@@ -1,0 +1,8 @@
+YUME MANGA WEBSITE
+
+1. Extract this entire ZIP folder.
+2. Double-click index.html to open the website in Chrome or Edge.
+3. The manga cover art is embedded in index.html, so it should display even if your preview app ignores the assets folder.
+4. Open cover-preview.jpg to see all eight included book covers.
+
+Keep this folder together if you edit the project.
